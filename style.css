@@ -1,0 +1,49 @@
+body {
+    text-align:center;
+}
+h1 {
+    font-size:40px;
+    font-family: 'Lemonada', cursive;
+}
+#app {
+    background-color:aqua;
+}
+.line {
+    height:6px;
+    background-color:black;
+    width:70px;
+    margin:5px auto;
+}
+#chatbot {
+    background-color:orange;
+}
+#MyCarousel {
+    background-color:red;
+}
+#MyCarousel ing {
+     height:300px;
+     margin-top:35px;
+}
+.carousel-inner p {
+    margin-bottom:15px;
+    margin-top:15px;
+    color:white;
+    font-size:20px;
+}
+#games {
+    background-color:red;
+}
+#MyCarousel2 {
+    background-color:orange;
+}
+#MyCarousel2 ing {
+     height:300px;
+     margin-top:35px;
+}
+#MyCarousel3 {
+    background-color:aqua;
+}
+#MyCarousel3 ing {
+     height:300px;
+     margin-top:35px;
+}
